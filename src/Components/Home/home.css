@@ -1,0 +1,12 @@
+#home img {
+    width: 40%;
+}
+#home {
+    background-color: #1ABC9C;
+}
+#home #line {
+    width: 80px;
+    height: 4px;
+    background-color: white;
+    margin: 0 10px;
+}
